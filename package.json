@@ -1,0 +1,25 @@
+{
+  "name": "playwritepractice",
+  "version": "1.0.0",
+  "description": "Reference:",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhsaugu/PlayWritePractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/saurabhsaugu/PlayWritePractice/issues"
+  },
+  "homepage": "https://github.com/saurabhsaugu/PlayWritePractice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3",
+    "playwright": "^1.60.0",
+    "typescript": "^6.0.3"
+  }
+}
