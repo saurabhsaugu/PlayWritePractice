@@ -22,3 +22,33 @@ playwright-report/
 # OS files
 .DS_Store
 Thumbs.db
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Playwright test artifacts
+traces/
+trace.zip
+screenshots/
+videos/
+
+# VS Code
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# IDEs
+.idea/
+
+# Misc
+.history/
+reports/
+
+# Optional lock files
+# package-lock.json
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
